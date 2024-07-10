@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718992232719",
+    "project_id": "flutter-cubit-firebase",
+    "storage_bucket": "flutter-cubit-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718992232719:android:835d85789b549bdbe02e7a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cubit_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2v7PDurj0sVx6zRnhjGceDaD9lF4Jn1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
